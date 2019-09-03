@@ -1,0 +1,27 @@
+.submit{
+  border-radius: 10px;
+  color: #fff;
+  font-family: inherit;
+  font-size: inherit;
+  background: #24b662;
+  cursor: pointer;
+  padding: 25px 50px;
+  margin: 15px 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.input {
+  font-size:18px;
+  padding:10px 10px 10px 5px;
+  margin: 5px;
+  width:300px;
+  border: 1px solid lightgrey;
+}

@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  border: 1px solid black;
+  background-color: lightslategrey;
+  align-items: center;
+  justify-content: center;
+}
+.paragraph {
+  padding: 5px;
+  padding-right: 10px
+}
